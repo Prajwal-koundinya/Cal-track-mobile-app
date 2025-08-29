@@ -259,9 +259,9 @@ Inspired by the need to make nutrition tracking accessible for Indian cuisine lo
 
 **Prajwal Koundinya**
 - 🌐 GitHub: [@Prajwal-koundinya](https://github.com/Prajwal-koundinya)
-- 💼 LinkedIn: [Connect with me]
-- 📧 Email: [Your Email]
-- 🌟 Portfolio: [Your Portfolio Website]
+- 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/prajwal-kowndinya-7506b4268/)]
+- 📧 Email: [prajwalkowndinya@gmail.com]
+- 🌟 Portfolio: [[Portfolio Website](https://mellow-faloodeh-7f6f0f.netlify.app/)]
 
 ---
 
