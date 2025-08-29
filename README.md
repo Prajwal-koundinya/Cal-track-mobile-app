@@ -1,7 +1,5 @@
 # 🍽️ Cal-Track Mobile App
 
-[18]
-
 <div align="center">
 
 **AI-Powered Indian Cuisine Calorie & Nutrition Tracker**
@@ -59,12 +57,10 @@ Cal-Track is an innovative **Progressive Web Application (PWA)** that revolution
 **Progressive Web App** • **TypeScript** • **JavaScript** • **HTML5** • **CSS3**
 
 ### Backend & AI
-[4] [11]
 
 **Python** • **Machine Learning** • **Computer Vision** • **AI Analysis**
 
 ### Mobile Development
-[17] [10]
 
 **PWA Technology** • **Responsive Design** • **Mobile-First Approach**
 
