@@ -8,11 +8,6 @@ This app helps you analyze Indian meals using AI to provide comprehensive nutrit
 
 ---
 
-##  Try it out
-### 🔗 [Cal-Track PWA (Live App)](https://github.com/Prajwal-koundinya/Cal-track-mobile-app)
-
----
-
 ## 🗂️ Project Structure
 ```
 Cal-track-mobile-app/
