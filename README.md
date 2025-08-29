@@ -8,6 +8,81 @@ This app helps you analyze Indian meals using AI to provide comprehensive nutrit
 
 ---
 
+## 🔬 How It Works
+
+1. **📸 Capture**: Take a photo of your Indian meal using the PWA camera interface
+2. **🤖 AI Processing**: Advanced computer vision analyzes the image for food identification
+3. **📊 Analysis**: ML algorithms estimate portions and calculate nutritional content
+4. **📈 Report**: Get detailed breakdown of calories, proteins, carbs, fats, and fiber
+5. **🎯 Track**: Monitor daily nutrition goals and protein requirements
+
+---
+
+## ✨ Features
+✅ **AI-Powered Food Recognition** - Advanced computer vision for Indian cuisine  
+✅ **Instant Nutritional Analysis** - Calories, proteins, carbs, fats, and fiber breakdown  
+✅ **Progressive Web App** - Works offline, installable, cross-platform  
+✅ **Portion Estimation** - AI-driven meal quantity approximation  
+✅ **Daily Target Tracking** - Personalized protein and calorie goals  
+✅ **Indian Cuisine Specialized** - Optimized for traditional Indian meals  
+✅ **Photo-to-Report** - Simply snap and get detailed nutrition insights
+
+---
+
+## 🚀 Project Overview
+
+### ⚙️ Technologies Used
+| **Technology**   | **Logo** | **Purpose** |
+| ---------------- | -------- | ----------- |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Backend AI/ML processing |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Type-safe frontend development |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Dynamic web functionality |
+| **React** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | UI component library |
+| **PWA** | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Progressive web app features |
+| **Flask/FastAPI** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Python web framework |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Markup language |
+| **CSS3** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and animations |
+| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Version control |
+
+---
+
+## 🚀 AI Technology Features
+
+### 🧠 Machine Learning Capabilities
+- **Computer Vision Models** trained on Indian cuisine datasets
+- **Portion Estimation Algorithms** for accurate quantity analysis  
+- **Nutritional Database** with 1000+ Indian food profiles
+- **Real-time Processing** for instant results
+
+---
+
+### 📱 Progressive Web App Benefits
+- **Offline Functionality** - Works without internet after initial load
+- **Cross-Platform** - Runs on iOS, Android, and desktop browsers
+- **App-like Experience** - Native feel with push notifications
+- **Instant Updates** - No app store downloads required
+- **Responsive Design** - Optimized for all screen sizes
+
+---
+
+## 🌟 Key Features in Detail
+
+### Indian Cuisine Specialization
+✅ Recognizes traditional dishes (dal, roti, sabzi, rice dishes)  
+✅ Handles regional variations and cooking styles  
+✅ Supports mixed meals and complex preparations  
+✅ Database includes street food and restaurant meals
+
+### Comprehensive Nutrition Analysis
+✅ **Calorie Counting** - Accurate caloric content calculation  
+✅ **Protein Analysis** - Essential for fitness goals  
+✅ **Carbohydrate Breakdown** - Simple and complex carbs  
+✅ **Fat Content** - Saturated and unsaturated analysis  
+✅ **Fiber Measurement** - Dietary fiber for digestive health  
+✅ **Portion Estimation** - AI-driven quantity approximation
+
+---
+
 ## 🗂️ Project Structure
 ```
 Cal-track-mobile-app/
@@ -37,22 +112,12 @@ Cal-track-mobile-app/
 ├── .gitignore              # Git ignore rules
 └── README.md              # Project documentation
 ```
-
-## ✨ Features
-✅ **AI-Powered Food Recognition** - Advanced computer vision for Indian cuisine  
-✅ **Instant Nutritional Analysis** - Calories, proteins, carbs, fats, and fiber breakdown  
-✅ **Progressive Web App** - Works offline, installable, cross-platform  
-✅ **Portion Estimation** - AI-driven meal quantity approximation  
-✅ **Daily Target Tracking** - Personalized protein and calorie goals  
-✅ **Indian Cuisine Specialized** - Optimized for traditional Indian meals  
-✅ **Photo-to-Report** - Simply snap and get detailed nutrition insights
-
 ---
 
 ## 📸 Screenshots
 | AI Food Analysis | Home Screen | Nutrition Report |
 |------------------|-------------|------------------|
-| ![Analysis](generated_image:24) | ![Home](generated_image:25) | ![Report](image:22) |
+| ![Analysis](generated_image:  ) | ![Home](generated_image:  ) | ![Report](image:  ) |
 
 ---
 
@@ -118,21 +183,6 @@ npm run build
 yarn build
 ```
 
-## 🚀 Project Overview
-
-### ⚙️ Technologies Used
-| **Technology**   | **Logo** | **Purpose** |
-| ---------------- | -------- | ----------- |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Backend AI/ML processing |
-| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Type-safe frontend development |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Dynamic web functionality |
-| **React** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | UI component library |
-| **PWA** | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Progressive web app features |
-| **Flask/FastAPI** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Python web framework |
-| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Markup language |
-| **CSS3** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and animations |
-| **Git** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Version control |
-
 ---
 
 ### 🧩 Scripts
@@ -159,51 +209,6 @@ yarn build
 
 ---
 
-## 🔬 How It Works
-
-1. **📸 Capture**: Take a photo of your Indian meal using the PWA camera interface
-2. **🤖 AI Processing**: Advanced computer vision analyzes the image for food identification
-3. **📊 Analysis**: ML algorithms estimate portions and calculate nutritional content
-4. **📈 Report**: Get detailed breakdown of calories, proteins, carbs, fats, and fiber
-5. **🎯 Track**: Monitor daily nutrition goals and protein requirements
-
----
-
-## 🚀 AI Technology Features
-
-### 🧠 Machine Learning Capabilities
-- **Computer Vision Models** trained on Indian cuisine datasets
-- **Portion Estimation Algorithms** for accurate quantity analysis  
-- **Nutritional Database** with 1000+ Indian food profiles
-- **Real-time Processing** for instant results
-
-### 📱 Progressive Web App Benefits
-- **Offline Functionality** - Works without internet after initial load
-- **Cross-Platform** - Runs on iOS, Android, and desktop browsers
-- **App-like Experience** - Native feel with push notifications
-- **Instant Updates** - No app store downloads required
-- **Responsive Design** - Optimized for all screen sizes
-
----
-
-## 🌟 Key Features in Detail
-
-### Indian Cuisine Specialization
-✅ Recognizes traditional dishes (dal, roti, sabzi, rice dishes)  
-✅ Handles regional variations and cooking styles  
-✅ Supports mixed meals and complex preparations  
-✅ Database includes street food and restaurant meals
-
-### Comprehensive Nutrition Analysis
-✅ **Calorie Counting** - Accurate caloric content calculation  
-✅ **Protein Analysis** - Essential for fitness goals  
-✅ **Carbohydrate Breakdown** - Simple and complex carbs  
-✅ **Fat Content** - Saturated and unsaturated analysis  
-✅ **Fiber Measurement** - Dietary fiber for digestive health  
-✅ **Portion Estimation** - AI-driven quantity approximation
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -225,11 +230,10 @@ We welcome contributions! Here's how you can help:
 ## 📈 Roadmap & Future Features
 
 ### 🚧 Coming Soon
-- [ ] **Multi-language Support** (Hindi, Tamil, Bengali)
+- [ ] **Multi-language Support** (Hindi, English, kannada)
 - [ ] **Barcode Scanning** for packaged foods
 - [ ] **Meal Planning** with AI recommendations
 - [ ] **Social Features** for sharing meals and progress
-- [ ] **Fitness Tracker Integration** (Apple Health, Google Fit)
 - [ ] **Restaurant Menu Integration** for dining out
 - [ ] **Voice Commands** for hands-free operation
 
