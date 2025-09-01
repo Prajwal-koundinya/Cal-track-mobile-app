@@ -115,9 +115,9 @@ Cal-track-mobile-app/
 ---
 
 ## 📸 Screenshots
-| AI Food Analysis | Home Screen | Nutrition Report |
-|------------------|-------------|------------------|
-| ![Analysis](generated_image:  ) | ![Home](generated_image:  ) | ![Report](image:  ) |
+<div align="center">
+  <img src="https://github.com/Prajwal-koundinya/Cal-track-mobile-app/blob/main/frontend/assets/images/WhatsApp%20Image%202025-08-30%20at%2017.40.45_b0d8f836.jpg" alt="App interface | AI analysis" width="714"/>
+</div>
 
 ---
 
